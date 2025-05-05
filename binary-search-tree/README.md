@@ -18,7 +18,7 @@ Implements a full-featured Binary Search Tree in C++, supporting insertion, dele
 - `testBST.cpp` – driver program with test cases
 - `Notes.h` – additional helper logic or references
 
-## ▶How to Compile & Run
+## How to Compile & Run
 ```bash
 g++ testBST.cpp -o bst
 ./bst
