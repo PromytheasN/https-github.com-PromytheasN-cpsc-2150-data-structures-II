@@ -1,11 +1,3 @@
-/*
- * Author: Alexander Kemos
- * Date: 10/4/2024
- * Implements round-robin scheduling process,
- * handling process execution times,
- * and calculating turnound times for each process.
-*/
-
 #include <iostream>
 #include <fstream> 
 #include <sstream> 
